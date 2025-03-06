@@ -1,1 +1,1 @@
-Basic Todo using HTML, CSS, JS
+Basic To DO using HTML, CSS, JS
