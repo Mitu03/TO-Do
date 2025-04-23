@@ -1,1 +1,1 @@
-Basic To do app using Js, Html, CSS
+Basic To do app using Js, Html, CSS.
